@@ -4,7 +4,7 @@ Este proyecto tiene como función la detección de rostros dentro de imágenes d
 
 ##  Nota
 
-Las dependencias, librerías necesarias para poder utilizar el proyecto se encuentran en `requirements.txt`, para poder instalarlas utilizar el siguiente comando:
+Las dependencias, librerías necesarias para poder utilizar el proyecto se encuentran en `requirements.txt`, para instalarlas utilizar el siguiente comando:
 ```
 pip install -r requirements.txt
 ```
@@ -27,7 +27,7 @@ Para la utilización del programa es necesario la selección de la palabra a bus
 ```
 face_image_collage("Christopher", list_files_small())
 ```
-Donde se buscará en las distintas imágenes que se encontraran en:
+Donde se buscará en las distintas imágenes que se encuentran en:
 
 ```
 ./small_img/
