@@ -34,6 +34,6 @@ Donde se buscará en las distintas imágenes que se encontraran en:
 ```
 Teniendo que al buscar la palabra "Christopher" se dentro de esta imagen se obtiene:
 
-<img src="small_img/a-0.png" width = 700 height = 600>
+<img src="small_img/a-0.png" width = 800 height = 750>
 
 <img src="Results/results.PNG">
